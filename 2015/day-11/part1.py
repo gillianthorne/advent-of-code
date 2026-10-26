@@ -24,6 +24,12 @@ For example:
 Given Santa's current password (your puzzle input), what should his next password be?
 
 Your puzzle input is hepxcrrq.
+
+--- Part Two ---
+
+Santa's password expired again. What's the next one?
+
+Your puzzle answer was heqaabcc.
 """
 
 def check_straight(password):
